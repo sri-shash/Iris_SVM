@@ -1,7 +1,7 @@
 # Iris_SVM
 <b>Machine learning project for Irish Dataset using SVM for predictions.</b> 
 
-><br/>The dataset is from <i>Jaybrown lee</i> who has a clean Iris sepal length and width data. 
+><br/>The data has been taken from <i>Jaybrown lee</i> who has a clean Iris sepal length and width dataset. 
 
 >The data is explored, described and visualised. The following machine learning algorithms were compared: 
 <br/>LogisticRegression
